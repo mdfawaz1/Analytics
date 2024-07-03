@@ -1,0 +1,14 @@
+[
+    {
+        "feature1": 1.0,
+        "feature2": 2.0,
+        "feature3": 3.0,
+        "feature4": 4.0
+    },
+    {
+        "feature1": 5.0,
+        "feature2": 6.0,
+        "feature3": 7.0,
+        "feature4": 8.0
+    }
+]

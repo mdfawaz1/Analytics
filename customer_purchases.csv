@@ -1,0 +1,11 @@
+customer_id,product_id,product_category,purchase_amount,purchase_date
+1,101,Electronics,300,2023-01-15
+2,102,Clothing,50,2023-01-20
+3,103,Grocery,20,2023-01-25
+4,104,Electronics,150,2023-02-10
+5,105,Furniture,500,2023-02-15
+1,106,Clothing,70,2023-03-01
+2,107,Grocery,30,2023-03-05
+3,108,Furniture,200,2023-03-10
+4,109,Electronics,100,2023-03-15
+5,110,Clothing,60,2023-03-20
